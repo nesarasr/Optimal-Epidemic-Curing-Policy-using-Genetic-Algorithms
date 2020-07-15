@@ -8,4 +8,4 @@ Currently, we are in the midst of the deadly coronavirus pandemic. It has brough
 
 This project is structured as follows. In Part I, we describe the concepts of epidemic modeling and implement the single objective cost minimization problem formulated in [Ref[1]](https://www.researchgate.net/publication/326168924_A_genetic_algorithm_for_finding_an_optimal_curing_strategy_for_epidemic_spreading_in_weighted_networks). This is followed by Part-II, where we extend this idea to find an optimal curing policy in a scenario where certain nodes are very highly infected as compared to the others (maybe referred to pandemic hotspots). We achieve this by solving a multiobjective optimization problem where cost is minimized and the average curing rate of the hotspots is maximized. 
 Find our complete report [here](https://docs.google.com/document/d/1Csdh3zaeON4M4e2Y8O0-74cJ7StcMRkET3gx6G3uI64/edit?usp=sharing)</br>
-Second contributor : Ankit Kumar, IIT KGP
+Contributors : Nesara S R, Ankit Kumar 
